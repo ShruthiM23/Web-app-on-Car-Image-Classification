@@ -9,7 +9,8 @@ Sometimes when people see any car on the road and like it but not sure of the mo
 
 Deployed using gradio: https://www.gradio.app/ml_examples
 
-https://user-images.githubusercontent.com/85027425/132135251-056d2eb9-e6f1-4ada-ae9b-2452f000f9d8.mp4
+
+https://user-images.githubusercontent.com/85027425/132135320-828e05f6-c5a1-4e25-96e7-2de5e2bdde4b.mp4
 
 
 ![image](https://user-images.githubusercontent.com/85027425/129476008-95a8c8c5-2312-4f09-b13d-9ef6054b1e07.png)
