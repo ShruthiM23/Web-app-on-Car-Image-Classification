@@ -5,6 +5,13 @@ According to the study conducted by "Mordor Intelligence" on the Indian used car
 
 Sometimes when people see any car on the road and like it but not sure of the model to further enquire about it, then they can take a snap of it and use our app link to know about the car model. They can consult the used cars dealership.
 
+# Demo:
+
+Deployed using gradio: https://www.gradio.app/ml_examples
+
+https://user-images.githubusercontent.com/85027425/132135251-056d2eb9-e6f1-4ada-ae9b-2452f000f9d8.mp4
+
+
 ![image](https://user-images.githubusercontent.com/85027425/129476008-95a8c8c5-2312-4f09-b13d-9ef6054b1e07.png)
 
 # Class Labels:
